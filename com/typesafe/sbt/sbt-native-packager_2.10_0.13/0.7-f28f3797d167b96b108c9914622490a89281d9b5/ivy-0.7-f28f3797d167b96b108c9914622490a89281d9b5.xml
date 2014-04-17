@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.typesafe.sbt" module="sbt-native-packager" revision="0.7-f28f3797d167b96b108c9914622490a89281d9b5" status="release" publication="20140417135954" e:scalaVersion="2.10" e:sbtVersion="0.13">
+	<info organisation="com.typesafe.sbt" module="sbt-native-packager" revision="0.7-f28f3797d167b96b108c9914622490a89281d9b5" status="release" publication="20140417140017" e:scalaVersion="2.10" e:sbtVersion="0.13">
 		<description>
 		sbt-native-packager
 		</description>
